@@ -1,0 +1,15 @@
+#box{
+  width:600px;
+  height:600px;
+  outline:5px solid black;
+  background-color:white;
+}
+
+#color{
+  background-color:red;
+  color:blue;
+}
+
+#js{
+  
+}
